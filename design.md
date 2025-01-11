@@ -160,8 +160,4 @@ Use post-game surveys or interaction logs for quantitative scoring.
 
 ---
 
-## Final Note
-Implement these metrics using a combination of:
-- **Game Logs**: For tracking and analyzing agent interactions.
-- **Surveys/Feedback**: For subjective measures like satisfaction and engagement.
-- **Automated Testing Frameworks**: To simulate scenarios and calculate performance benchmarks.
+
